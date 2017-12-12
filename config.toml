@@ -1,4 +1,4 @@
-baseURL = "108.l-homme.com"
+baseURL = "/"
 languageCode = "fr-fr"
 title = "Formation, conseil et dépannage informatique et téléphonie sur Toulon"
 theme = "hugo-initio"
