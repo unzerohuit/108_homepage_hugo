@@ -1,15 +1,15 @@
-baseURL = "xenodochial-agnesi-6b7520.netlify.com"
+baseURL = "108.l-homme.com"
 languageCode = "fr-fr"
 title = "Formation, conseil et dépannage informatique et téléphonie sur Toulon"
 theme = "hugo-initio"
 publishDir = "docs"
 
 [params]
-    name = "Anthony Russel"
-    description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    name = "Cédric L'homme"
+    description = "L'informatique à votre service"
+    email = "unzerohuit@gmail.com"
+    phone = "+33 6 19 87 03 42"
+    address = "Toulon"
     year = 2017
     background = ""
     favicon = "images/gt_favicon.png"
